@@ -1,0 +1,5 @@
+.record/
+__pycahce__/
+data/poems
+figs/
+*.pyc
